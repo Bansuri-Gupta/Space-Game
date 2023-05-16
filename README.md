@@ -7,3 +7,7 @@ Game Interface
 Killing Enemies 
 <img width="960" alt="image" src="https://github.com/Bansuri-Gupta/Space-Game/assets/108368737/51d78e24-2b59-429e-8bae-12d1822299f9">
 
+
+![image](https://github.com/Bansuri-Gupta/Space-Game/assets/108368737/c2f6ef3a-76a8-49c1-9524-ffc6d330140a)
+
+
